@@ -55,7 +55,7 @@
 
 # 미리보기
 
-<img src="./image1.png">
+![image](https://github.com/KoYesung/Portfolio_Fire/assets/131944189/e9554a44-db08-468e-a042-c08d91303f19)
 
 <br>
 
