@@ -45,13 +45,10 @@
 
 # 사용 방법
 
-> 1. [다운로드 클릭](https://drive.google.com/file/d/14ObT1cmKxJP_9W_44OrceHMYzoIo8ZU-/view?usp=drive_link) 후 폴더안의 run.zip 압축을 해제하여
-
-> 2. 그 안의 run.exe 파일을 실행한다.
-
-> 3. 원하는 영역만큼  왼쪽 위에서 오른쪽 아래로 드래그 하여 cctv화면(동영상의 화면)의 크기에 맞춰주고
-
-> 4. 테스트 해볼 영상을 재생하거나 띄워준다.
+1. [다운로드 클릭](https://drive.google.com/file/d/14ObT1cmKxJP_9W_44OrceHMYzoIo8ZU-/view?usp=drive_link) 후 폴더안의 run.zip 압축을 해제하여
+2. 그 안의 run.exe 파일을 실행한다.
+3. 원하는 영역만큼  왼쪽 위에서 오른쪽 아래로 드래그 하여 cctv화면(동영상의 화면)의 크기에 맞춰주고
+4. 테스트 해볼 영상을 재생하거나 띄워준다.
 
 # 미리보기
 
