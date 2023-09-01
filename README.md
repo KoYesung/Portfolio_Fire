@@ -1,11 +1,27 @@
 # 프로젝트 개요
 
-일반 소시민들이 가게를 운영하며 자리를 비웠을때 발생하는 화재를 감지하여 바로 신고해주기 위한 프로젝트
+* 화재를 감지하는 사람이 부재할 경우 발생하는 화재를 AI가 감지하여 화재를 알리는 서비스 
+* Ultralytics의 YOLOv5모델을 사용하여 AI로 실시간 화재를 감지하는 서비스 
+* 기존의 화재감지기의 문제점을 보완하기 위해 기획한 실시간으로 영상 내 화재와 연기 Object를 Detection
+* 프로그램 실행을 위해 exe 파일로 제작
 
-> CCTV화면을 영역으로 설정하여 그 안에서의 픽셀단위의 불을 탐지한다.
 <br>
-<hr>
 
+## 👩‍💻팀 인원 및 역할
+
+* 총 5명의 팀원
+* 최종 프로젝트에 채택할 모델을 테스트하기 위해 YOLOv8와 YOLOv5 테스트 모델 구현
+* 이미지 데이터셋 추가 구축(화재로 인한 연기, 화재 불꽃)
+* YOLO 라벨링 변환과 같은 데이터 전처리
+<br>
+
+## 📌 사용 데이터
+* [AI Hub 화재 영상 데이터셋](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=realm&dataSetSn=176)
+* 구글 화재 이미지 데이터
+* 데이터 라벨링 Tool: [RoboFlow](https://roboflow.com/)
+<br>
+<h3>🪄 사용 방법</h3>
+  
 # 🔥 Skills
 
 ## AI
@@ -47,7 +63,6 @@
 
 <img src="./alarm1.png" width="400px">
 
-<br>
 
 ## 화재 발생시 경고문
 <img src="./alarm2.png" width="400px">
