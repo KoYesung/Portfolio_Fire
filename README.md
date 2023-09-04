@@ -63,3 +63,7 @@
 
 ## 화재 발생시 경고문
 <img src="./alarm2.png" width="400px">
+
+
+
+* [발표자료 바로가기](https://github.com/KoYesung/Portfolio_Fire/files/12513703/_.pdf)
