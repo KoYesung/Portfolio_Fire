@@ -20,7 +20,7 @@
 * 구글 화재 이미지 데이터
 * 데이터 라벨링 Tool: [RoboFlow](https://roboflow.com/)
 <br>
-<h3>🪄 사용 방법</h3>
+
   
 # 🔥 Skills
 
